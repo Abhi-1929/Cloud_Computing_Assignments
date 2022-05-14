@@ -1,0 +1,10 @@
+!!!!!!!!!!download Python version 2.7 :- https://www.python.org/downloads/release/python-2718/ 
+download google cli : https://cloud.google.com/sdk/docs/install
+note :- while installing click google init checkbox
+create folder :- app.yaml , index.py ( get from git )
+go in folder copy path
+open google cloud sd (command prompt)
+py google-cloud-sdk\bin\dev_appserver.py "path of above folder"
+ 
+
+copy local host of " admin_server.py:150] Starting admin server at"
