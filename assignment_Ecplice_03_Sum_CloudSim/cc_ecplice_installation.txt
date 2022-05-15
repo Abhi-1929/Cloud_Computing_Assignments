@@ -4,7 +4,7 @@
 4_) Install Jre :- https://www.oracle.com/java/technologies/downloads/#jre8-windows
 5_) download Cloud sim :- https://github.com/Cloudslab/cloudsim/releases    or given in folder
 6_) create new project. 
-7_) import src file from ecplice (projectName-> Import -> Exsting file and project ->"select src root directory")
+7_) import src(exception file) file from ecplice (projectName-> Import -> Exsting file and project ->"select src root directory")
 8_) Now right click on the project and choose **build path --->> Config bulid path --->Java Bulid path--> Libraries-> ClassPath-->"Add Cloudsim-04.jar(file)"**.
 9_) Do remeber to change the name of the package in all the source files.
 10_)Now right click on the project and run the project as **JAVA Application**.
