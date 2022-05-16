@@ -1,4 +1,5 @@
 !!!!!!!!!!download Python version 2.7 :- https://www.python.org/downloads/release/python-2718/ 
+add to environment variable of (system)
 downlod :- pip install webapp2
 download google cli : https://cloud.google.com/sdk/docs/install
 note :- while installing click google init checkbox
